@@ -1,4 +1,6 @@
-request
-pandas
-joblib
 Flask
+joblib
+requests
+pandas
+numpy
+scikit-learn
