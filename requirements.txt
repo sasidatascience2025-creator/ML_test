@@ -1,0 +1,4 @@
+request
+pandas
+joblib
+Flask
